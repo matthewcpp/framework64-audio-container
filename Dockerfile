@@ -22,5 +22,5 @@ RUN apt-get update && apt-get upgrade -y && \
 	mkdir /src /dest /job /fw64
 
 COPY --from=cpp_builder /json2ins/build/json2ins /fw64
-COPY sgi2pc /sgi2pc
+COPY fw64 /fw64
 
