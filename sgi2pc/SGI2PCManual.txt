@@ -1,0 +1,248 @@
+------------------------------------------------------------------
+PC Version Sound Tools
+------------------------------------------------------------------
+
+1. ADPCMENC
+
+Summary
+-------
+
+ADPCMENC is the PC version of vadpcm_enc ported from the SGI 
+version.  It has the same format and options as the SGI version.
+
+
+2. IC (Ver1.13)
+
+How to Use
+----------
+
+     ic [option] source file[.ins]
+
+The default extension of the source file is .ins
+
+The following options can be specified:
+
+     -o<prefix>   Specifies the prefix of the output file.  If 
+		  there is no specification, the source file 
+		  name is used.  
+     -v       	  Specifies Verbose mode
+     -d           Disables the counter display during processing
+
+Output Files
+------------
+
+Two files are created: a .ctl file (wave information table) and 
+a .tbl file (wave data table).  The .sym file output by the 
+original IC is not output.  
+
+Source Files
+------------
+
+The source file format is the same as in the SGI version of IC, 
+but it has been expanded a little.   
+
+   -- Comments can not only be offset using /*  */ but also like 
+      C++ with two slashes (//).  Everything from // to the end  
+      of the line is treated as a comment.
+
+   -- #include "file" can be used.  The file is expanded at the  
+      position where the #include is located.  The format <file>  
+      cannot be used for the file specification.
+
+   -- Both the Yen sign and the slash (/) can be used as  
+      separators in the "use" command file path.
+
+   -- The loopCount command was added to the sound Objects.   
+      With this command, you can specify the number of times to  
+      loop the waveform. (This must be written before the "use"  
+      command.)
+
+   -- The decimal point can be used for numeric notation.  Also,  
+      for the convenience of describing the envelope time, the  
+      time unit (s, ms) can be described after the number.  10s  
+      means 10 seconds and 10ms means 10 milliseconds.  If no  
+      unit is specified, the unit is microseconds, like the  
+      original.  (The unit must be described with lowercase  
+      letters immediately after the number.)  
+
+      Example: When attackTime=10.1234ms is described, it is  
+      converted to attackTime=10123.  Since actual numbers are  
+      treated as integers, fractions are omitted.  
+
+
+Notes regarding source file descriptions
+----------------------------------------
+
+-- The referenced object must be described first.  
+
+-- Up to 255 characters can be written on a line.  
+
+-- Only half-size alphanumeric characters and the underbar (_) 
+   can be used for the label.  Also, only 50 characters are  
+   recognized, and anything beyond that is ignored.
+
+-- Uppercase characters are distinguished from lowercase  
+   characters.  
+
+-- The releaseVolume command is a dummy command.  Even if the  
+   parameter is specified, the actual sounds do not change.  
+
+
+
+Command List
+------------
+
+
+  (Command)		(Explanation)        (Parameter range)		(Omitted value)
+
+bank Objects:
+  sampleRate		Sample rate		0~2147483646(Hz)	44100
+  percussionDefault	Percussion instrument	--                      0
+  instrument		instrument Object	--			Cannot omit
+
+instrument Objects:
+  volume		Volume			0~127			127
+  pan			Pan			0~127			64
+  priority		Voice priority		0~10			5
+  tremoloType		Tremo type		0~255			0
+  tremoloRate		Tremo rate		0~255			0
+  tremoloDepth		Tremo depth		0~255			0
+  tremoloDelay		Tremo delay		0~255			0
+  vibratoType		Vibrato type		0~255			0
+  vibratoRate		Vibrato rate		0~255			0
+  vibratoDepth		Vibrato depth		0~255			0
+  vibratoDelay		Vibrato delay		0~255			0
+  bendRange		Bend range		0~32767(cent)		200
+  sound			sound Object		--			Cannot omit
+
+sound Objects:
+  use                  Sample file		--			Cannot omit
+  volume               Sample volume		0~127			127
+  pan                  Sample pan		0~127			64
+  keymap               keymap Object		--			Cannot omit
+  envelope             envelope Object		--			Cannot omit
+  loopCount            Waveform loop count	0~2147483646		0 (Endless loop)
+
+keymap Objects: 
+  velocityMin          Minimum velocity		0~127			1
+  velocityMax          Maximum velocity		0~127			127
+  keyMin               Lowest note		0~127			0
+  keyMax               Highest note		0~127			127
+  keyBase              Base note		0~127			60
+  detune               Detune			-50~50(cent)		0
+
+envelope Objects:
+  attackTime		Attach time		0~2147483646(microsec)	0
+  attackVolume		Attack volume		0~127			127
+  decayTime		Decay time		0~2147483646(microsec)	0
+  decayVolume		Decay volume		0~127			127
+  releaseTime		Release time		0~2147483646(microsec)	0
+  releaseVolume		Release volume		0~127			0
+
+
+
+3. MIDICOMP (Ver 1.03)
+
+Summary
+-------
+
+MIDICOMP is used to compress Type 0 and Type 1 standard MIDI 
+files into a format that can be recognized by the compact 
+sequence player.
+
+Format
+-----------
+
+  MIDICOMP [-o] <input file> <outputfile>
+
+Startup options
+---------------
+
+  -o  Optimizes simultaneous MIDI events 
+
+
+4. MIDICVT (Ver 1.00)
+
+Summary
+-------
+
+Converts Type 1 standard MIDI files into Type 0 standard MIDI 
+files which can be recognized by the sequence player.
+
+Format
+----------
+
+  MIDICVT  <input file> <output file> [option]
+
+Startup options
+---------------
+
+
+  -v  Specifies Verbose mode
+  -s  Eliminates all messages that do nto use audio library
+  -o  Optimizes the arrangement of simultaneous MIDI events 
+
+
+
+5. SBC (Ver 1.00)
+
+Summary
+-------
+
+SBC is a NINTENDO64 tool which is used for combining a number of 
+MIDI sequence files into one sequence bank file (SBK file).
+
+Format
+------
+
+  SBC [options] File1 [File2 File3 ...]
+
+  The format is specified the same way as the SGI version.  
+"File" specifies a MIDI sequence file.  The order in which files 
+are stored in the SBK file is determined by the order in which 
+the MIDI files are specified on the command line.  You may omit 
+an extension when specifying a file, but in that case the 
+default becomes the .CMF extension.  (.CMF refers to compact 
+MIDI data created by MIDICOMP)
+
+Startup options
+---------------
+
+-Ofile	Specifies the name of the output SBK file.  If an 
+	extension is omitted, then .SBK is added by default.  
+	If the entire option is omitted, then the file is output 
+	with the name SEQBANK.SBK
+
+-V   	Specifies Verbose mode.  The size of all data are 
+	displayed after processing is complete.
+
+
+SBK file format
+---------------
+
+The SBK file is output with the same format (sequence bank 
+format) as the SGI version.  The starting position of the 
+sequence data is adjusted to an 8-byte boundary.
+
+    Top
+    2byte : Format version ("S1")
+    2byte : Sequence data size
+
+    4byte : Sequence data offset position
+    4byte : Sequence data length
+                :
+                : (Sequence data)
+                :
+
+    ?byte : The actual sequence data
+    end
+
+
+
+6. TABLEDESIGN
+
+Summary
+-------
+
+TABLEDESIGN is the PC version of tabledesign ported from the SGI 
+version.  It has the same format and options as the SGI version.

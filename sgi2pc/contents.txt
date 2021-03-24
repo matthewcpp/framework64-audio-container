@@ -1,0 +1,10 @@
+.\
+ |  contents.txt         
+ +  SGI2PCmanual.txt 
+ |__tool
+     |  ADPCMENC.EXE         
+     |  ic.exe               
+     |  midicomp.exe         
+     |  MIDICVT.EXE          
+     |  SBC.EXE              
+     +  tabledesign.exe      
