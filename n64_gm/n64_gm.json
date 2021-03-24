@@ -1,0 +1,7008 @@
+{
+  "bank": {
+    "instruments": [
+      {
+        "instrument": 3,
+        "program": 0
+      },
+      {
+        "instrument": 9,
+        "program": 1
+      },
+      {
+        "instrument": 6,
+        "program": 2
+      },
+      {
+        "instrument": 13,
+        "program": 3
+      },
+      {
+        "instrument": 11,
+        "program": 4
+      },
+      {
+        "instrument": 15,
+        "program": 5
+      },
+      {
+        "instrument": 18,
+        "program": 6
+      },
+      {
+        "instrument": 2,
+        "program": 7
+      },
+      {
+        "instrument": 19,
+        "program": 8
+      },
+      {
+        "instrument": 26,
+        "program": 9
+      },
+      {
+        "instrument": 27,
+        "program": 10
+      },
+      {
+        "instrument": 30,
+        "program": 11
+      },
+      {
+        "instrument": 31,
+        "program": 12
+      },
+      {
+        "instrument": 25,
+        "program": 13
+      },
+      {
+        "instrument": 32,
+        "program": 14
+      },
+      {
+        "instrument": 33,
+        "program": 15
+      },
+      {
+        "instrument": 34,
+        "program": 16
+      },
+      {
+        "instrument": 17,
+        "program": 17
+      },
+      {
+        "instrument": 14,
+        "program": 18
+      },
+      {
+        "instrument": 36,
+        "program": 19
+      },
+      {
+        "instrument": 37,
+        "program": 20
+      },
+      {
+        "instrument": 38,
+        "program": 21
+      },
+      {
+        "instrument": 24,
+        "program": 22
+      },
+      {
+        "instrument": 39,
+        "program": 23
+      },
+      {
+        "instrument": 12,
+        "program": 24
+      },
+      {
+        "instrument": 0,
+        "program": 25
+      },
+      {
+        "instrument": 40,
+        "program": 26
+      },
+      {
+        "instrument": 45,
+        "program": 27
+      },
+      {
+        "instrument": 41,
+        "program": 28
+      },
+      {
+        "instrument": 21,
+        "program": 29
+      },
+      {
+        "instrument": 47,
+        "program": 30
+      },
+      {
+        "instrument": 48,
+        "program": 31
+      },
+      {
+        "instrument": 16,
+        "program": 32
+      },
+      {
+        "instrument": 44,
+        "program": 33
+      },
+      {
+        "instrument": 50,
+        "program": 34
+      },
+      {
+        "instrument": 8,
+        "program": 35
+      },
+      {
+        "instrument": 51,
+        "program": 36
+      },
+      {
+        "instrument": 10,
+        "program": 37
+      },
+      {
+        "instrument": 49,
+        "program": 38
+      },
+      {
+        "instrument": 53,
+        "program": 39
+      },
+      {
+        "instrument": 54,
+        "program": 40
+      },
+      {
+        "instrument": 7,
+        "program": 41
+      },
+      {
+        "instrument": 57,
+        "program": 42
+      },
+      {
+        "instrument": 58,
+        "program": 43
+      },
+      {
+        "instrument": 59,
+        "program": 44
+      },
+      {
+        "instrument": 60,
+        "program": 45
+      },
+      {
+        "instrument": 61,
+        "program": 46
+      },
+      {
+        "instrument": 62,
+        "program": 47
+      },
+      {
+        "instrument": 63,
+        "program": 48
+      },
+      {
+        "instrument": 55,
+        "program": 49
+      },
+      {
+        "instrument": 64,
+        "program": 50
+      },
+      {
+        "instrument": 65,
+        "program": 51
+      },
+      {
+        "instrument": 67,
+        "program": 52
+      },
+      {
+        "instrument": 68,
+        "program": 53
+      },
+      {
+        "instrument": 43,
+        "program": 54
+      },
+      {
+        "instrument": 69,
+        "program": 55
+      },
+      {
+        "instrument": 4,
+        "program": 56
+      },
+      {
+        "instrument": 70,
+        "program": 57
+      },
+      {
+        "instrument": 71,
+        "program": 58
+      },
+      {
+        "instrument": 72,
+        "program": 59
+      },
+      {
+        "instrument": 66,
+        "program": 60
+      },
+      {
+        "instrument": 28,
+        "program": 61
+      },
+      {
+        "instrument": 29,
+        "program": 62
+      },
+      {
+        "instrument": 56,
+        "program": 63
+      },
+      {
+        "instrument": 73,
+        "program": 64
+      },
+      {
+        "instrument": 1,
+        "program": 65
+      },
+      {
+        "instrument": 35,
+        "program": 66
+      },
+      {
+        "instrument": 74,
+        "program": 67
+      },
+      {
+        "instrument": 75,
+        "program": 68
+      },
+      {
+        "instrument": 76,
+        "program": 69
+      },
+      {
+        "instrument": 77,
+        "program": 70
+      },
+      {
+        "instrument": 78,
+        "program": 71
+      },
+      {
+        "instrument": 79,
+        "program": 72
+      },
+      {
+        "instrument": 80,
+        "program": 73
+      },
+      {
+        "instrument": 81,
+        "program": 74
+      },
+      {
+        "instrument": 82,
+        "program": 75
+      },
+      {
+        "instrument": 83,
+        "program": 76
+      },
+      {
+        "instrument": 84,
+        "program": 77
+      },
+      {
+        "instrument": 85,
+        "program": 78
+      },
+      {
+        "instrument": 86,
+        "program": 79
+      },
+      {
+        "instrument": 87,
+        "program": 80
+      },
+      {
+        "instrument": 88,
+        "program": 81
+      },
+      {
+        "instrument": 89,
+        "program": 82
+      },
+      {
+        "instrument": 90,
+        "program": 83
+      },
+      {
+        "instrument": 91,
+        "program": 84
+      },
+      {
+        "instrument": 93,
+        "program": 85
+      },
+      {
+        "instrument": 94,
+        "program": 86
+      },
+      {
+        "instrument": 95,
+        "program": 87
+      },
+      {
+        "instrument": 23,
+        "program": 88
+      },
+      {
+        "instrument": 96,
+        "program": 89
+      },
+      {
+        "instrument": 97,
+        "program": 90
+      },
+      {
+        "instrument": 99,
+        "program": 91
+      },
+      {
+        "instrument": 100,
+        "program": 92
+      },
+      {
+        "instrument": 101,
+        "program": 93
+      },
+      {
+        "instrument": 102,
+        "program": 94
+      },
+      {
+        "instrument": 103,
+        "program": 95
+      },
+      {
+        "instrument": 104,
+        "program": 96
+      },
+      {
+        "instrument": 105,
+        "program": 97
+      },
+      {
+        "instrument": 106,
+        "program": 98
+      },
+      {
+        "instrument": 20,
+        "program": 99
+      },
+      {
+        "instrument": 107,
+        "program": 100
+      },
+      {
+        "instrument": 108,
+        "program": 101
+      },
+      {
+        "instrument": 52,
+        "program": 102
+      },
+      {
+        "instrument": 5,
+        "program": 103
+      },
+      {
+        "instrument": 46,
+        "program": 104
+      },
+      {
+        "instrument": 109,
+        "program": 105
+      },
+      {
+        "instrument": 111,
+        "program": 106
+      },
+      {
+        "instrument": 112,
+        "program": 107
+      },
+      {
+        "instrument": 92,
+        "program": 108
+      },
+      {
+        "instrument": 113,
+        "program": 109
+      },
+      {
+        "instrument": 114,
+        "program": 110
+      },
+      {
+        "instrument": 115,
+        "program": 111
+      },
+      {
+        "instrument": 110,
+        "program": 112
+      },
+      {
+        "instrument": 116,
+        "program": 113
+      },
+      {
+        "instrument": 42,
+        "program": 114
+      },
+      {
+        "instrument": 117,
+        "program": 115
+      },
+      {
+        "instrument": 118,
+        "program": 116
+      },
+      {
+        "instrument": 119,
+        "program": 117
+      },
+      {
+        "instrument": 98,
+        "program": 118
+      },
+      {
+        "instrument": 120,
+        "program": 119
+      },
+      {
+        "instrument": 121,
+        "program": 120
+      },
+      {
+        "instrument": 122,
+        "program": 121
+      },
+      {
+        "instrument": 123,
+        "program": 122
+      },
+      {
+        "instrument": 124,
+        "program": 123
+      },
+      {
+        "instrument": 125,
+        "program": 124
+      },
+      {
+        "instrument": 126,
+        "program": 125
+      },
+      {
+        "instrument": 127,
+        "program": 126
+      },
+      {
+        "instrument": 22,
+        "program": 127
+      }
+    ],
+    "name": "GenMidiBank",
+    "percussionDefault": 128,
+    "sampleRate": 44100
+  },
+  "envelopes": [
+    {
+      "attackTime": 4000,
+      "attackVolume": 127,
+      "decayTime": 2000000,
+      "decayVolume": 50,
+      "name": "ElecPiano2Env",
+      "releaseTime": 400000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 0,
+      "decayVolume": 127,
+      "name": "percEnv",
+      "releaseTime": 100000
+    },
+    {
+      "attackTime": 20000,
+      "attackVolume": 127,
+      "decayTime": 2500000,
+      "decayVolume": 0,
+      "name": "ElecGrandEnv",
+      "releaseTime": 200000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 4000000,
+      "decayVolume": 0,
+      "name": "GrandPianoEnv",
+      "releaseTime": 200000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 500000,
+      "decayVolume": 100,
+      "name": "defaultenv",
+      "releaseTime": 200000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 4000000,
+      "decayVolume": 0,
+      "name": "Piano44KEnv",
+      "releaseTime": 400000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 3200000,
+      "decayVolume": 0,
+      "name": "ElecPiano1Env",
+      "releaseTime": 400000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 3000000,
+      "decayVolume": 0,
+      "name": "HonkyTonkEnv",
+      "releaseTime": 180000
+    },
+    {
+      "attackTime": 20000,
+      "attackVolume": 127,
+      "decayTime": 1800000,
+      "decayVolume": 30,
+      "name": "HarpsichordEnv",
+      "releaseTime": 200000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 3000000,
+      "decayVolume": 0,
+      "name": "DulcimerEnv",
+      "releaseTime": 400000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 2000000,
+      "decayVolume": 40,
+      "name": "JazzGtrEnv",
+      "releaseTime": 400000
+    },
+    {
+      "attackTime": 10000,
+      "attackVolume": 127,
+      "decayTime": 2000000,
+      "decayVolume": 50,
+      "name": "CleanGtrEnv",
+      "releaseTime": 500000
+    },
+    {
+      "attackTime": 3000,
+      "attackVolume": 127,
+      "decayTime": 400000,
+      "decayVolume": 0,
+      "name": "MuteGtrEnv",
+      "releaseTime": 60000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 800000,
+      "decayVolume": 90,
+      "name": "CrashEnv",
+      "releaseTime": 1000000
+    },
+    {
+      "attackTime": 10000,
+      "attackVolume": 127,
+      "decayTime": 800000,
+      "decayVolume": 90,
+      "name": "DistGtrEnv",
+      "releaseTime": 60000
+    },
+    {
+      "attackTime": 80000,
+      "attackVolume": 127,
+      "decayTime": 800000,
+      "decayVolume": 100,
+      "name": "SlowStrgEnv",
+      "releaseTime": 100000
+    },
+    {
+      "attackTime": 0,
+      "attackVolume": 127,
+      "decayTime": 500000,
+      "decayVolume": 80,
+      "name": "ViolinEnv",
+      "releaseTime": 200000
+    },
+    {
+      "attackTime": 8000,
+      "attackVolume": 127,
+      "decayTime": 200000,
+      "decayVolume": 80,
+      "name": "PedalHatEnv",
+      "releaseTime": 100000
+    }
+  ],
+  "instruments": [
+    {
+      "name": "SteelGtr",
+      "pan": 64,
+      "sounds": [
+        121,
+        122,
+        123
+      ],
+      "volume": 127
+    },
+    {
+      "name": "AltoSax",
+      "pan": 64,
+      "sounds": [
+        71
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 16,
+      "vibratoRate": 170,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "Clavinet",
+      "pan": 64,
+      "sounds": [
+        72,
+        75,
+        78,
+        80,
+        82
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Piano44K",
+      "pan": 64,
+      "sounds": [
+        2,
+        5,
+        7,
+        10,
+        12,
+        15,
+        17,
+        18
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Trumpet",
+      "pan": 64,
+      "sounds": [
+        198,
+        199,
+        201,
+        202
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 8,
+      "tremeloRate": 170,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "StarTheme",
+      "pan": 64,
+      "sounds": [
+        31
+      ],
+      "volume": 127
+    },
+    {
+      "name": "ElecGrand",
+      "pan": 64,
+      "sounds": [
+        33,
+        35,
+        37,
+        39,
+        40,
+        41,
+        43,
+        45
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Viola",
+      "pan": 64,
+      "sounds": [
+        32,
+        34,
+        36
+      ],
+      "vibratoDelay": 6,
+      "vibratoDepth": 6,
+      "vibratoRate": 224,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "FretlessBass",
+      "pan": 64,
+      "sounds": [
+        149
+      ],
+      "volume": 127
+    },
+    {
+      "name": "GrandPiano",
+      "pan": 64,
+      "sounds": [
+        20,
+        21,
+        22,
+        23,
+        25,
+        27,
+        28,
+        30
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Slap2Bass",
+      "pan": 64,
+      "sounds": [
+        151
+      ],
+      "volume": 127
+    },
+    {
+      "name": "ElecPiano1",
+      "pan": 64,
+      "sounds": [
+        4,
+        1
+      ],
+      "volume": 127
+    },
+    {
+      "name": "NylonGtr",
+      "pan": 64,
+      "sounds": [
+        118,
+        119,
+        120
+      ],
+      "volume": 127
+    },
+    {
+      "name": "HonkyTonk",
+      "pan": 64,
+      "sounds": [
+        46,
+        48,
+        50,
+        52,
+        53,
+        54,
+        55,
+        57
+      ],
+      "volume": 127
+    },
+    {
+      "name": "RockOrgan",
+      "pan": 64,
+      "sounds": [
+        112
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 10,
+      "vibratoRate": 180,
+      "vibratoType": 128,
+      "volume": 100
+    },
+    {
+      "name": "ElecPiano2",
+      "pan": 64,
+      "sounds": [
+        59,
+        62
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 20,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "AcBass",
+      "pan": 64,
+      "sounds": [
+        61
+      ],
+      "volume": 127
+    },
+    {
+      "name": "PercOrgan",
+      "pan": 64,
+      "sounds": [
+        111
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 18,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 10,
+      "vibratoRate": 180,
+      "vibratoType": 128,
+      "volume": 100
+    },
+    {
+      "name": "Harpsichord",
+      "pan": 64,
+      "sounds": [
+        60,
+        58,
+        64,
+        65,
+        69
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Celesta",
+      "pan": 64,
+      "sounds": [
+        74,
+        70,
+        79,
+        77
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Atmosphere",
+      "pan": 64,
+      "sounds": [
+        132
+      ],
+      "volume": 127
+    },
+    {
+      "name": "OvrDrvGtr",
+      "pan": 64,
+      "sounds": [
+        133,
+        134,
+        135,
+        136
+      ],
+      "volume": 127
+    },
+    {
+      "name": "GunShot",
+      "pan": 64,
+      "sounds": [
+        114
+      ],
+      "volume": 127
+    },
+    {
+      "name": "NewAgePad",
+      "pan": 64,
+      "sounds": [
+        115
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Harmonica",
+      "pan": 64,
+      "sounds": [
+        116
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 100
+    },
+    {
+      "name": "Xylophone",
+      "pan": 64,
+      "sounds": [
+        83,
+        102,
+        103,
+        104
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Glockenspiel",
+      "pan": 64,
+      "sounds": [
+        86,
+        89,
+        93,
+        96
+      ],
+      "volume": 127
+    },
+    {
+      "name": "MusicBox",
+      "pan": 64,
+      "sounds": [
+        26
+      ],
+      "volume": 127
+    },
+    {
+      "name": "BrassSection",
+      "pan": 64,
+      "sounds": [
+        209,
+        211
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Synth1Brass",
+      "pan": 64,
+      "sounds": [
+        208
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Vibraphone",
+      "pan": 64,
+      "sounds": [
+        6,
+        9,
+        0,
+        3
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 30,
+      "tremeloRate": 210,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 24,
+      "vibratoRate": 196,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "Marimba",
+      "pan": 64,
+      "sounds": [
+        97,
+        98,
+        99,
+        101
+      ],
+      "volume": 127
+    },
+    {
+      "name": "TubularBells",
+      "pan": 64,
+      "sounds": [
+        105,
+        106,
+        108
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 24,
+      "tremeloRate": 80,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 16,
+      "vibratoRate": 110,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "Dulcimer",
+      "pan": 64,
+      "sounds": [
+        109
+      ],
+      "volume": 127
+    },
+    {
+      "name": "DrawBarOrgan",
+      "pan": 64,
+      "sounds": [
+        110
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 100
+    },
+    {
+      "name": "TenorSax",
+      "pan": 64,
+      "sounds": [
+        91
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 14,
+      "vibratoRate": 168,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "ChurchOrgan",
+      "pan": 64,
+      "sounds": [
+        92,
+        95,
+        85,
+        88
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 170,
+      "tremeloType": 1,
+      "volume": 100
+    },
+    {
+      "name": "ReedOrgan",
+      "pan": 64,
+      "sounds": [
+        113
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 100
+    },
+    {
+      "name": "Accordian",
+      "pan": 64,
+      "sounds": [
+        44,
+        42
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 12,
+      "tremeloRate": 160,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 18,
+      "vibratoRate": 248,
+      "vibratoType": 130,
+      "volume": 100
+    },
+    {
+      "name": "Bandoneon",
+      "pan": 64,
+      "sounds": [
+        117
+      ],
+      "volume": 100
+    },
+    {
+      "name": "JazzGtr",
+      "pan": 64,
+      "sounds": [
+        126,
+        128,
+        130
+      ],
+      "volume": 127
+    },
+    {
+      "name": "MutedGtr",
+      "pan": 64,
+      "sounds": [
+        125,
+        127,
+        129
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SteelDrums",
+      "pan": 64,
+      "sounds": [
+        195,
+        252
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SynthVoice",
+      "pan": 64,
+      "sounds": [
+        196
+      ],
+      "volume": 127
+    },
+    {
+      "name": "FngBass",
+      "pan": 64,
+      "sounds": [
+        145
+      ],
+      "volume": 127
+    },
+    {
+      "name": "CleanGtr",
+      "pan": 64,
+      "sounds": [
+        51,
+        49,
+        47
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Sitar",
+      "pan": 64,
+      "sounds": [
+        137
+      ],
+      "volume": 127
+    },
+    {
+      "name": "DistGtr",
+      "pan": 64,
+      "sounds": [
+        138,
+        140,
+        141,
+        142,
+        143
+      ],
+      "volume": 127
+    },
+    {
+      "name": "GtrHarmonic",
+      "pan": 64,
+      "sounds": [
+        144
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Synth1Bass",
+      "pan": 64,
+      "sounds": [
+        152
+      ],
+      "volume": 127
+    },
+    {
+      "name": "PickBass",
+      "pan": 64,
+      "sounds": [
+        147
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Slap1Bass",
+      "pan": 64,
+      "sounds": [
+        150
+      ],
+      "volume": 127
+    },
+    {
+      "name": "EchoDrops",
+      "pan": 64,
+      "sounds": [
+        66
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Synth2Bass",
+      "pan": 64,
+      "sounds": [
+        68
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Violin",
+      "pan": 64,
+      "sounds": [
+        154,
+        156
+      ],
+      "vibratoDelay": 6,
+      "vibratoDepth": 8,
+      "vibratoRate": 228,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "SlowStrg",
+      "pan": 64,
+      "sounds": [
+        153,
+        155,
+        67,
+        188,
+        63
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 6,
+      "tremeloRate": 100,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "Synth2Brass",
+      "pan": 64,
+      "sounds": [
+        212
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Cello",
+      "pan": 64,
+      "sounds": [
+        157,
+        158,
+        159,
+        160
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 6,
+      "vibratoRate": 222,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "Contrabass",
+      "pan": 64,
+      "sounds": [
+        162,
+        164,
+        166,
+        168
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 3,
+      "vibratoRate": 180,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "TremeloStrg",
+      "pan": 64,
+      "sounds": [
+        169,
+        171,
+        173,
+        175,
+        84
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 8,
+      "tremeloRate": 120,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "PizzStrg",
+      "pan": 64,
+      "sounds": [
+        8
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Harp",
+      "pan": 64,
+      "sounds": [
+        176
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Timpani",
+      "pan": 64,
+      "sounds": [
+        177
+      ],
+      "volume": 127
+    },
+    {
+      "name": "StrgEnsmbl",
+      "pan": 64,
+      "sounds": [
+        179,
+        181,
+        183,
+        185,
+        186
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 9,
+      "tremeloRate": 110,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "Synth1Strg",
+      "pan": 64,
+      "sounds": [
+        189
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Synth2Strg",
+      "pan": 64,
+      "sounds": [
+        190
+      ],
+      "volume": 127
+    },
+    {
+      "name": "FrHorn",
+      "pan": 64,
+      "sounds": [
+        207
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 10,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "ChoirAhhs",
+      "pan": 64,
+      "sounds": [
+        163,
+        161,
+        167,
+        165,
+        192
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 6,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 7,
+      "vibratoRate": 80,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "ChoirOohs",
+      "pan": 64,
+      "sounds": [
+        180,
+        178,
+        184,
+        182,
+        194
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 9,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "vibratoDelay": 1,
+      "vibratoDepth": 9,
+      "vibratoRate": 120,
+      "vibratoType": 131,
+      "volume": 127
+    },
+    {
+      "name": "OrchHit",
+      "pan": 64,
+      "sounds": [
+        197
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Trombone",
+      "pan": 64,
+      "sounds": [
+        204,
+        206
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 8,
+      "tremeloRate": 140,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "Tuba",
+      "pan": 64,
+      "sounds": [
+        139
+      ],
+      "volume": 127
+    },
+    {
+      "name": "MuteTmpt",
+      "pan": 64,
+      "sounds": [
+        11,
+        14,
+        16
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SopSax",
+      "pan": 64,
+      "sounds": [
+        213
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 16,
+      "vibratoRate": 190,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "BariSax",
+      "pan": 64,
+      "sounds": [
+        214
+      ],
+      "vibratoDelay": 1,
+      "vibratoDepth": 12,
+      "vibratoRate": 180,
+      "vibratoType": 128,
+      "volume": 127
+    },
+    {
+      "name": "Oboe",
+      "pan": 64,
+      "sounds": [
+        215
+      ],
+      "volume": 127
+    },
+    {
+      "name": "EngHorn",
+      "pan": 64,
+      "sounds": [
+        216
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Bassoon",
+      "pan": 64,
+      "sounds": [
+        217
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Clarinet",
+      "pan": 64,
+      "sounds": [
+        218
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Piccolo",
+      "pan": 64,
+      "sounds": [
+        94
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 8,
+      "tremeloRate": 230,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "Flute",
+      "pan": 64,
+      "sounds": [
+        219
+      ],
+      "tremeloDelay": 1,
+      "tremeloDepth": 8,
+      "tremeloRate": 200,
+      "tremeloType": 1,
+      "volume": 127
+    },
+    {
+      "name": "Recorder",
+      "pan": 64,
+      "sounds": [
+        221
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Panflute",
+      "pan": 64,
+      "sounds": [
+        222
+      ],
+      "volume": 127
+    },
+    {
+      "name": "BottleBlow",
+      "pan": 64,
+      "sounds": [
+        223
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Shakuhachi",
+      "pan": 64,
+      "sounds": [
+        174
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Whistle",
+      "pan": 64,
+      "sounds": [
+        224
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Ocarina",
+      "pan": 64,
+      "sounds": [
+        87
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SqrWave",
+      "pan": 64,
+      "sounds": [
+        225
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SawWave",
+      "pan": 64,
+      "sounds": [
+        226
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Calliope",
+      "pan": 64,
+      "sounds": [
+        107
+      ],
+      "volume": 127
+    },
+    {
+      "name": "ChiffLead",
+      "pan": 64,
+      "sounds": [
+        227
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Charang",
+      "pan": 64,
+      "sounds": [
+        228
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Kalimba",
+      "pan": 64,
+      "sounds": [
+        229
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SoloVoice",
+      "pan": 64,
+      "sounds": [
+        230
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SawFifths",
+      "pan": 64,
+      "sounds": [
+        231
+      ],
+      "volume": 127
+    },
+    {
+      "name": "BassLead",
+      "pan": 64,
+      "sounds": [
+        232
+      ],
+      "volume": 127
+    },
+    {
+      "name": "WarmPad",
+      "pan": 64,
+      "sounds": [
+        233
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Polysynth",
+      "pan": 64,
+      "sounds": [
+        29
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SynthDrum",
+      "pan": 64,
+      "sounds": [
+        234
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SpaceVoice",
+      "pan": 64,
+      "sounds": [
+        235
+      ],
+      "volume": 127
+    },
+    {
+      "name": "BowedGlass",
+      "pan": 64,
+      "sounds": [
+        236
+      ],
+      "volume": 127
+    },
+    {
+      "name": "MetalicPad",
+      "pan": 64,
+      "sounds": [
+        238
+      ],
+      "volume": 127
+    },
+    {
+      "name": "HaloPad",
+      "pan": 64,
+      "sounds": [
+        239
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SweepPad",
+      "pan": 64,
+      "sounds": [
+        240
+      ],
+      "volume": 127
+    },
+    {
+      "name": "IceRain",
+      "pan": 64,
+      "sounds": [
+        241
+      ],
+      "volume": 127
+    },
+    {
+      "name": "SoundTrack",
+      "pan": 64,
+      "sounds": [
+        38
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Crystal",
+      "pan": 64,
+      "sounds": [
+        100
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Brightness",
+      "pan": 64,
+      "sounds": [
+        210
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Goblins",
+      "pan": 64,
+      "sounds": [
+        242
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Banjo",
+      "pan": 64,
+      "sounds": [
+        243
+      ],
+      "volume": 127
+    },
+    {
+      "name": "TinkleBell",
+      "pan": 64,
+      "sounds": [
+        244
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Shamisen",
+      "pan": 64,
+      "sounds": [
+        245
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Koto",
+      "pan": 64,
+      "sounds": [
+        246
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Bagpipes",
+      "pan": 64,
+      "sounds": [
+        248
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Fiddle",
+      "pan": 64,
+      "sounds": [
+        249
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Shanai",
+      "pan": 64,
+      "sounds": [
+        250
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Agogo",
+      "pan": 64,
+      "sounds": [
+        251
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Woodblock",
+      "pan": 64,
+      "sounds": [
+        253
+      ],
+      "volume": 127
+    },
+    {
+      "name": "TaikoDrum",
+      "pan": 64,
+      "sounds": [
+        254
+      ],
+      "volume": 127
+    },
+    {
+      "name": "MelodicTom",
+      "pan": 64,
+      "sounds": [
+        255
+      ],
+      "volume": 127
+    },
+    {
+      "name": "ReverseCym",
+      "pan": 64,
+      "sounds": [
+        256
+      ],
+      "volume": 127
+    },
+    {
+      "name": "GtrFretNoise",
+      "pan": 64,
+      "sounds": [
+        257
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Breathnoise",
+      "pan": 64,
+      "sounds": [
+        81
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Seashore",
+      "pan": 64,
+      "sounds": [
+        258
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Birdtweet",
+      "pan": 64,
+      "sounds": [
+        259
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Telephone",
+      "pan": 64,
+      "sounds": [
+        260
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Helicopter",
+      "pan": 64,
+      "sounds": [
+        261
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Applause",
+      "pan": 64,
+      "sounds": [
+        24
+      ],
+      "volume": 127
+    },
+    {
+      "name": "Standard_Kit",
+      "pan": 64,
+      "sounds": [
+        172,
+        170,
+        262,
+        263,
+        205,
+        131,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        247,
+        146,
+        76,
+        272,
+        19,
+        273,
+        274,
+        187,
+        275,
+        276,
+        73,
+        277,
+        278,
+        279,
+        280,
+        124,
+        281,
+        90,
+        282,
+        283,
+        13,
+        220,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        148,
+        193,
+        290,
+        200,
+        203,
+        291,
+        237,
+        191,
+        56,
+        292,
+        293
+      ],
+      "volume": 127
+    }
+  ],
+  "keymaps": [
+    {
+      "detune": 0,
+      "keyBase": 75,
+      "keyMax": 63,
+      "keyMin": 63,
+      "name": "HighCongaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 36,
+      "keyMax": 41,
+      "keyMin": 0,
+      "name": "Piano44K00key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 46,
+      "keyMax": 49,
+      "keyMin": 42,
+      "name": "Piano44K01key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 69,
+      "keyMin": 64,
+      "name": "ChoirOohs02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 79,
+      "keyMin": 72,
+      "name": "StrgEnsmbl03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 53,
+      "keyMax": 57,
+      "keyMin": 50,
+      "name": "Piano44K02key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 75,
+      "keyMin": 70,
+      "name": "ChoirOohs03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 71,
+      "keyMin": 65,
+      "name": "StrgEnsmbl02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 63,
+      "keyMin": 58,
+      "name": "Piano44K03key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 95,
+      "keyMax": 78,
+      "keyMin": 78,
+      "name": "MuteCuicaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 103,
+      "keyMin": 76,
+      "name": "ChoirOohs04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 69,
+      "keyMin": 64,
+      "name": "Piano44K04key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 75,
+      "keyMin": 70,
+      "name": "Piano44K05key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Seashore00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "Piano44K06key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 82,
+      "name": "Piano44K07key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 51,
+      "keyMax": 41,
+      "keyMin": 0,
+      "name": "piano00key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 63,
+      "keyMax": 49,
+      "keyMin": 42,
+      "name": "piano01key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 57,
+      "keyMin": 50,
+      "name": "piano02key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 65,
+      "keyMin": 65,
+      "name": "HighTimbaleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 63,
+      "keyMin": 58,
+      "name": "piano03key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 88,
+      "keyMax": 100,
+      "keyMin": 0,
+      "name": "PizzStrg00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 73,
+      "keyMin": 66,
+      "name": "Vibraphone01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 69,
+      "keyMin": 64,
+      "name": "piano04key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 65,
+      "keyMin": 0,
+      "name": "Vibraphone00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 75,
+      "keyMin": 70,
+      "name": "piano05key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 81,
+      "name": "Vibraphone03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 78,
+      "keyMin": 0,
+      "name": "ElecPiano100Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 48,
+      "keyMax": 60,
+      "keyMin": 0,
+      "name": "Slap2Bass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "piano06key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 80,
+      "keyMin": 74,
+      "name": "Vibraphone02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 79,
+      "name": "ElecPiano101Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 82,
+      "name": "piano07key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "EchoDrops00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 71,
+      "keyMin": 65,
+      "name": "SlowStrg02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 55,
+      "keyMax": 67,
+      "keyMin": 0,
+      "name": "Synth2Bass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 51,
+      "keyMax": 41,
+      "keyMin": 0,
+      "name": "ElecGrand00key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 102,
+      "keyMin": 82,
+      "name": "Harpsichord04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 56,
+      "keyMin": 56,
+      "name": "CowbellKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 79,
+      "keyMin": 72,
+      "name": "SlowStrg03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 63,
+      "keyMax": 49,
+      "keyMin": 42,
+      "name": "ElecGrand01key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 57,
+      "keyMin": 50,
+      "name": "ElecGrand02key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 63,
+      "keyMin": 58,
+      "name": "ElecGrand03key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 61,
+      "keyMin": 0,
+      "name": "Harpsichord00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 48,
+      "keyMax": 60,
+      "keyMin": 0,
+      "name": "AcBass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 79,
+      "name": "ElecPiano201Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 0,
+      "name": "PercOrgan00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 69,
+      "keyMin": 64,
+      "name": "ElecGrand04key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 75,
+      "keyMin": 70,
+      "name": "ElecGrand05key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 75,
+      "keyMax": 68,
+      "keyMin": 62,
+      "name": "Harpsichord01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 78,
+      "keyMin": 0,
+      "name": "ElecPiano200Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 80,
+      "name": "SlowStrg04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 75,
+      "keyMin": 69,
+      "name": "Harpsichord02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "ElecGrand06key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "Harpsichord03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 82,
+      "name": "ElecGrand07key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 77,
+      "keyMax": 62,
+      "keyMin": 62,
+      "name": "MuteCongaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 51,
+      "keyMax": 41,
+      "keyMin": 0,
+      "name": "HonkyTonk00key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Polysynth00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 63,
+      "keyMax": 49,
+      "keyMin": 42,
+      "name": "HonkyTonk01key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Applause00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 57,
+      "keyMin": 50,
+      "name": "HonkyTonk02key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 0,
+      "name": "MusicBox00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 63,
+      "keyMin": 58,
+      "name": "HonkyTonk03key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 69,
+      "keyMin": 64,
+      "name": "HonkyTonk04key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 75,
+      "keyMin": 70,
+      "name": "HonkyTonk05key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 53,
+      "keyMin": 53,
+      "name": "RideBellKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "HonkyTonk06key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 90,
+      "keyMin": 0,
+      "name": "Synth2Strg00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 82,
+      "name": "HonkyTonk07key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 73,
+      "keyMin": 66,
+      "name": "Celesta01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 94,
+      "keyMin": 0,
+      "name": "AltoSax00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 61,
+      "keyMin": 0,
+      "name": "Clavinet00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 59,
+      "keyMin": 59,
+      "name": "RideCym2Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 65,
+      "keyMin": 0,
+      "name": "Celesta00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 75,
+      "keyMax": 68,
+      "keyMin": 62,
+      "name": "Clavinet01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 63,
+      "keyMax": 51,
+      "keyMin": 51,
+      "name": "RideCym1Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 103,
+      "keyMin": 81,
+      "name": "Celesta03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 75,
+      "keyMin": 69,
+      "name": "Clavinet02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 80,
+      "keyMin": 74,
+      "name": "Celesta02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 81,
+      "keyMin": 76,
+      "name": "Clavinet03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Breathnoise00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 102,
+      "keyMin": 82,
+      "name": "Clavinet04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 74,
+      "keyMax": 65,
+      "keyMin": 0,
+      "name": "Xylophone00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 80,
+      "name": "TremeloStrg04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 76,
+      "keyMin": 68,
+      "name": "ChurchOrgan02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 74,
+      "keyMax": 65,
+      "keyMin": 0,
+      "name": "Glockenspiel00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 102,
+      "keyMin": 0,
+      "name": "Ocarina00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 93,
+      "keyMax": 105,
+      "keyMin": 77,
+      "name": "ChurchOrgan03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 73,
+      "keyMin": 66,
+      "name": "Glockenspiel01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 66,
+      "keyMin": 66,
+      "name": "LowTimbaleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 84,
+      "keyMin": 0,
+      "name": "TenorSax00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "ChurchOrgan00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 78,
+      "keyMin": 74,
+      "name": "Glockenspiel02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 0,
+      "name": "Piccolo00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 67,
+      "keyMin": 60,
+      "name": "ChurchOrgan01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 101,
+      "keyMin": 79,
+      "name": "Glockenspiel03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 65,
+      "keyMin": 0,
+      "name": "Marimba00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 73,
+      "keyMin": 66,
+      "name": "Marimba01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 80,
+      "keyMin": 74,
+      "name": "Marimba02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Crystal00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 81,
+      "name": "Marimba03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 73,
+      "keyMin": 66,
+      "name": "Xylophone01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 78,
+      "keyMin": 74,
+      "name": "Xylophone02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 101,
+      "keyMin": 79,
+      "name": "Xylophone03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 68,
+      "keyMin": 0,
+      "name": "TubularBells00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 75,
+      "keyMin": 69,
+      "name": "TubularBells01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Calliope00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 94,
+      "keyMax": 106,
+      "keyMin": 76,
+      "name": "TubularBells02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Dulcimer00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 102,
+      "keyMin": 0,
+      "name": "DrawBarOrgan00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 94,
+      "keyMax": 106,
+      "keyMin": 0,
+      "name": "RockOrgan00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 103,
+      "keyMin": 0,
+      "name": "ReedOrgan00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 77,
+      "keyMin": 0,
+      "name": "Accordian00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 92,
+      "keyMax": 104,
+      "keyMin": 78,
+      "name": "Accordian01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "GunShot00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "NewAgePad00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 83,
+      "keyMax": 95,
+      "keyMin": 0,
+      "name": "Harmonica00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 99,
+      "keyMin": 0,
+      "name": "Bandoneon00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 77,
+      "keyMax": 62,
+      "keyMin": 0,
+      "name": "NylonGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 69,
+      "keyMin": 63,
+      "name": "NylonGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 99,
+      "keyMin": 70,
+      "name": "NylonGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "SteelGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 68,
+      "keyMin": 60,
+      "name": "SteelGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 69,
+      "name": "SteelGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 83,
+      "keyMax": 64,
+      "keyMin": 64,
+      "name": "LowCongaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "MutedGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "JazzGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 68,
+      "keyMin": 60,
+      "name": "MutedGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 68,
+      "keyMin": 60,
+      "name": "JazzGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 69,
+      "name": "MutedGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 69,
+      "name": "JazzGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "CleanGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 68,
+      "keyMin": 60,
+      "name": "CleanGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 69,
+      "name": "CleanGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 52,
+      "keyMax": 40,
+      "keyMin": 40,
+      "name": "ElecSnareKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Atmosphere00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 48,
+      "keyMin": 0,
+      "name": "OvrDrvGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 66,
+      "keyMax": 55,
+      "keyMin": 49,
+      "name": "OvrDrvGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 74,
+      "keyMax": 64,
+      "keyMin": 56,
+      "name": "OvrDrvGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 83,
+      "keyMax": 95,
+      "keyMin": 65,
+      "name": "OvrDrvGtr03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 80,
+      "keyMax": 92,
+      "keyMin": 0,
+      "name": "Sitar00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 57,
+      "keyMax": 48,
+      "keyMin": 0,
+      "name": "DistGtr00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 72,
+      "keyMin": 0,
+      "name": "Tuba00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 64,
+      "keyMax": 55,
+      "keyMin": 49,
+      "name": "DistGtr01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 64,
+      "keyMin": 56,
+      "name": "DistGtr02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 72,
+      "keyMin": 65,
+      "name": "DistGtr03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 99,
+      "keyMin": 73,
+      "name": "DistGtr04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 90,
+      "keyMin": 0,
+      "name": "GtrHarmonic00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 55,
+      "keyMax": 67,
+      "keyMin": 0,
+      "name": "FngBass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 50,
+      "keyMin": 50,
+      "name": "HighTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 48,
+      "keyMax": 60,
+      "keyMin": 0,
+      "name": "PickBass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 94,
+      "keyMax": 77,
+      "keyMin": 77,
+      "name": "LoWoodBlockKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 48,
+      "keyMax": 60,
+      "keyMin": 0,
+      "name": "FretlessBass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 48,
+      "keyMax": 60,
+      "keyMin": 0,
+      "name": "Slap1Bass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 55,
+      "keyMax": 67,
+      "keyMin": 0,
+      "name": "Synth1Bass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 68,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "SlowStrg00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 78,
+      "keyMin": 0,
+      "name": "Violin00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 64,
+      "keyMin": 60,
+      "name": "SlowStrg01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 98,
+      "keyMax": 110,
+      "keyMin": 79,
+      "name": "Violin01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "StarTheme00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 71,
+      "keyMax": 61,
+      "keyMin": 0,
+      "name": "Viola00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 68,
+      "keyMin": 62,
+      "name": "Viola01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 69,
+      "name": "Viola02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 46,
+      "keyMax": 37,
+      "keyMin": 0,
+      "name": "Cello00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 53,
+      "keyMax": 45,
+      "keyMin": 38,
+      "name": "Cello01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 52,
+      "keyMin": 46,
+      "name": "Cello02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 81,
+      "keyMin": 53,
+      "name": "Cello03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 62,
+      "keyMin": 58,
+      "name": "ChoirAhhs01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 46,
+      "keyMax": 37,
+      "keyMin": 0,
+      "name": "Contrabass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 65,
+      "keyMax": 57,
+      "keyMin": 0,
+      "name": "ChoirAhhs00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 53,
+      "keyMax": 45,
+      "keyMin": 38,
+      "name": "Contrabass01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 74,
+      "keyMin": 70,
+      "name": "ChoirAhhs03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 52,
+      "keyMin": 46,
+      "name": "Contrabass02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 69,
+      "keyMin": 63,
+      "name": "ChoirAhhs02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 69,
+      "keyMax": 81,
+      "keyMin": 53,
+      "name": "Contrabass03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 68,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "TremeloStrg00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 53,
+      "keyMax": 36,
+      "keyMin": 36,
+      "name": "KickDrum1Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 64,
+      "keyMin": 60,
+      "name": "TremeloStrg01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 51,
+      "keyMax": 35,
+      "keyMin": 0,
+      "name": "KickDrum2Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 71,
+      "keyMin": 65,
+      "name": "TremeloStrg02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 101,
+      "keyMin": 0,
+      "name": "Shakuhachi00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 79,
+      "keyMin": 72,
+      "name": "TremeloStrg03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 93,
+      "keyMax": 105,
+      "keyMin": 0,
+      "name": "Harp00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 66,
+      "keyMax": 78,
+      "keyMin": 0,
+      "name": "Timpani00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 63,
+      "keyMin": 58,
+      "name": "ChoirOohs01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 68,
+      "keyMax": 59,
+      "keyMin": 0,
+      "name": "StrgEnsmbl00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 57,
+      "keyMin": 0,
+      "name": "ChoirOohs00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 64,
+      "keyMin": 60,
+      "name": "StrgEnsmbl01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 108,
+      "keyMin": 80,
+      "name": "StrgEnsmbl04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 99,
+      "keyMin": 0,
+      "name": "Synth1Strg00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 84,
+      "keyMin": 84,
+      "name": "BellTreeKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 101,
+      "keyMin": 75,
+      "name": "ChoirAhhs04Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 78,
+      "keyMin": 0,
+      "name": "SteelDrums00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 0,
+      "name": "SynthVoice00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 75,
+      "keyMax": 87,
+      "keyMin": 0,
+      "name": "OrchHit00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 71,
+      "keyMin": 0,
+      "name": "Trumpet00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 74,
+      "keyMin": 72,
+      "name": "Trumpet01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 80,
+      "keyMin": 80,
+      "name": "MuteTriangleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 78,
+      "keyMin": 75,
+      "name": "Trumpet02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 94,
+      "keyMax": 106,
+      "keyMin": 79,
+      "name": "Trumpet03Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 81,
+      "keyMin": 81,
+      "name": "OpenTriangleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 65,
+      "keyMax": 55,
+      "keyMin": 0,
+      "name": "Trombone00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 51,
+      "keyMax": 39,
+      "keyMin": 39,
+      "name": "HandClapKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 84,
+      "keyMin": 56,
+      "name": "Trombone01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 74,
+      "keyMin": 0,
+      "name": "MuteTmpt00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 69,
+      "keyMin": 69,
+      "name": "CabasaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 79,
+      "keyMin": 75,
+      "name": "MuteTmpt01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 94,
+      "keyMax": 96,
+      "keyMin": 80,
+      "name": "MuteTmpt02Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 77,
+      "keyMax": 89,
+      "keyMin": 0,
+      "name": "FrHorn00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 94,
+      "keyMin": 0,
+      "name": "Synth1Brass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 67,
+      "keyMin": 0,
+      "name": "BrassSection00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Brightness00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 68,
+      "name": "BrassSection01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Synth2Brass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 88,
+      "keyMax": 100,
+      "keyMin": 0,
+      "name": "SopSax00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 72,
+      "keyMin": 0,
+      "name": "BariSax00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 88,
+      "keyMax": 100,
+      "keyMin": 0,
+      "name": "Oboe00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "EngHorn00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 79,
+      "keyMin": 0,
+      "name": "Bassoon00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Clarinet00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 111,
+      "keyMin": 0,
+      "name": "Flute00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 78,
+      "keyMax": 70,
+      "keyMin": 70,
+      "name": "MaracasKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 95,
+      "keyMax": 107,
+      "keyMin": 0,
+      "name": "Recorder00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 97,
+      "keyMin": 0,
+      "name": "Panflute00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 88,
+      "keyMax": 100,
+      "keyMin": 0,
+      "name": "BottleBlow00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 87,
+      "keyMax": 99,
+      "keyMin": 0,
+      "name": "Whistle00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 95,
+      "keyMin": 0,
+      "name": "SqrWave00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SawWave00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "ChiffLead00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Charang00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Kalimba00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SoloVoice00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SawFifths00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "BassLead00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "WarmPad00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "SynthDrum00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SpaceVoice00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "BowedGlass00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 83,
+      "keyMax": 83,
+      "keyMin": 83,
+      "name": "JingleBellKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "MetalicPad00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "HaloPad00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SweepPad00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "IceRain00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "SoundTrack00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Goblins00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 83,
+      "keyMax": 95,
+      "keyMin": 0,
+      "name": "Banjo00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 70,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "TinkleBell00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 98,
+      "keyMin": 0,
+      "name": "Shamisen00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Koto00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 62,
+      "keyMax": 49,
+      "keyMin": 49,
+      "name": "CrashCym1Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 93,
+      "keyMin": 0,
+      "name": "Bagpipes00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Fiddle00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 0,
+      "name": "Shanai00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 73,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Agogo00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 84,
+      "keyMax": 96,
+      "keyMin": 79,
+      "name": "SteelDrums01Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Woodblock00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "TaikoDrum00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 75,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "MelodicTom00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "ReverseCym00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 60,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "GtrFretNoise00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Birdtweet00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Telephone00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 127,
+      "keyMin": 0,
+      "name": "Helicopter00Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 37,
+      "keyMax": 37,
+      "keyMin": 37,
+      "name": "SideStickKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 52,
+      "keyMax": 38,
+      "keyMin": 38,
+      "name": "AcSnareKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 41,
+      "keyMin": 41,
+      "name": "LowFloorTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 54,
+      "keyMax": 42,
+      "keyMin": 42,
+      "name": "ClosedHHatKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 43,
+      "keyMin": 43,
+      "name": "HighFloorTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 56,
+      "keyMax": 44,
+      "keyMin": 44,
+      "name": "PedalHHatKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 45,
+      "keyMin": 45,
+      "name": "LowTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 58,
+      "keyMax": 46,
+      "keyMin": 46,
+      "name": "OpenHHatKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 47,
+      "keyMin": 47,
+      "name": "LowMidTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 59,
+      "keyMax": 48,
+      "keyMin": 48,
+      "name": "HiMidTomKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 67,
+      "keyMax": 52,
+      "keyMin": 52,
+      "name": "ChinaCymKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 64,
+      "keyMax": 54,
+      "keyMin": 54,
+      "name": "TamborineKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 68,
+      "keyMax": 55,
+      "keyMin": 55,
+      "name": "SplashCymKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 68,
+      "keyMax": 57,
+      "keyMin": 57,
+      "name": "CrashCym2Key",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 72,
+      "keyMax": 58,
+      "keyMin": 58,
+      "name": "VibraslapKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 76,
+      "keyMax": 60,
+      "keyMin": 60,
+      "name": "HighBongoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 81,
+      "keyMax": 61,
+      "keyMin": 61,
+      "name": "LowBongoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 79,
+      "keyMax": 67,
+      "keyMin": 67,
+      "name": "HighAgogoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 82,
+      "keyMax": 68,
+      "keyMin": 68,
+      "name": "LowAgogoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 85,
+      "keyMax": 71,
+      "keyMin": 71,
+      "name": "ShortWhistleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 86,
+      "keyMax": 72,
+      "keyMin": 72,
+      "name": "LongWhistleKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 89,
+      "keyMax": 73,
+      "keyMin": 73,
+      "name": "ShortGuiroKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 74,
+      "keyMin": 74,
+      "name": "LongGuiroKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 93,
+      "keyMax": 75,
+      "keyMin": 75,
+      "name": "ClavesKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 91,
+      "keyMax": 76,
+      "keyMin": 76,
+      "name": "HiWoodBlockKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 96,
+      "keyMax": 79,
+      "keyMin": 79,
+      "name": "OpenCuicaKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 90,
+      "keyMax": 82,
+      "keyMin": 82,
+      "name": "ShakerKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 99,
+      "keyMax": 85,
+      "keyMin": 85,
+      "name": "CastanetsKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 103,
+      "keyMax": 86,
+      "keyMin": 86,
+      "name": "MuteSurdoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    },
+    {
+      "detune": 0,
+      "keyBase": 104,
+      "keyMax": 87,
+      "keyMin": 87,
+      "name": "OpenSurdoKey",
+      "velocityMax": 127,
+      "velocityMin": 0
+    }
+  ],
+  "sounds": [
+    {
+      "envelope": 4,
+      "keymap": 30,
+      "name": "Vibraphone02",
+      "pan": 64,
+      "use": "sounds/Vibes_F5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 6,
+      "keymap": 31,
+      "name": "ElecPiano101",
+      "pan": 64,
+      "use": "sounds/ElecPiano1_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 1,
+      "name": "Piano44K00",
+      "pan": 64,
+      "use": "sounds/GMPiano_C2.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 26,
+      "name": "Vibraphone03",
+      "pan": 64,
+      "use": "sounds/Vibes_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 6,
+      "keymap": 27,
+      "name": "ElecPiano100",
+      "pan": 64,
+      "use": "sounds/ElecPiano1_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 2,
+      "name": "Piano44K01",
+      "pan": 64,
+      "use": "sounds/GMPiano_Bb2.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 24,
+      "name": "Vibraphone00",
+      "pan": 64,
+      "use": "sounds/Vibes_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 5,
+      "name": "Piano44K02",
+      "pan": 64,
+      "use": "sounds/GMPiano_F3.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 21,
+      "name": "PizzStrg00",
+      "pan": 64,
+      "use": "sounds/Pizzicato_C5.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 22,
+      "name": "Vibraphone01",
+      "pan": 64,
+      "use": "sounds/Vibes_Bb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 8,
+      "name": "Piano44K03",
+      "pan": 64,
+      "use": "sounds/GMPiano_C4.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 205,
+      "name": "MuteTmpt00",
+      "pan": 64,
+      "use": "sounds/MuteTrmpt_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 11,
+      "name": "Piano44K04",
+      "pan": 64,
+      "use": "sounds/GMPiano_G4.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 206,
+      "name": "Cabasa",
+      "pan": 64,
+      "use": "sounds/Cabasa.26k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 207,
+      "name": "MuteTmpt01",
+      "pan": 64,
+      "use": "sounds/MuteTrmpt_F5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 12,
+      "name": "Piano44K05",
+      "pan": 64,
+      "use": "sounds/GMPiano_C5.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 208,
+      "name": "MuteTmpt02",
+      "pan": 64,
+      "use": "sounds/MuteTrmpt_Bb5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 14,
+      "name": "Piano44K06",
+      "pan": 64,
+      "use": "sounds/GMPiano_G5.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 5,
+      "keymap": 15,
+      "name": "Piano44K07",
+      "pan": 64,
+      "use": "sounds/GMPiano_C6.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 66,
+      "name": "RideBell",
+      "pan": 64,
+      "use": "sounds/Ride.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 16,
+      "name": "GrandPiano00",
+      "pan": 64,
+      "use": "sounds/GMPiano_C2.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 17,
+      "name": "GrandPiano01",
+      "pan": 64,
+      "use": "sounds/GMPiano_Bb2.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 18,
+      "name": "GrandPiano02",
+      "pan": 64,
+      "use": "sounds/GMPiano_F3.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 20,
+      "name": "GrandPiano03",
+      "pan": 64,
+      "use": "sounds/GMPiano_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 60,
+      "name": "Applause00",
+      "pan": 64,
+      "use": "sounds/Applause.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 23,
+      "name": "GrandPiano04",
+      "pan": 64,
+      "use": "sounds/GMPiano_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 62,
+      "name": "MusicBox00",
+      "pan": 64,
+      "use": "sounds/Music_Box_C5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 25,
+      "name": "GrandPiano05",
+      "pan": 64,
+      "use": "sounds/GMPiano_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 29,
+      "name": "GrandPiano06",
+      "pan": 64,
+      "use": "sounds/GMPiano_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 58,
+      "name": "Polysynth00",
+      "pan": 64,
+      "use": "sounds/Polysynth2_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 3,
+      "keymap": 32,
+      "name": "GrandPiano07",
+      "pan": 64,
+      "use": "sounds/GMPiano_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 160,
+      "name": "StarTheme00",
+      "pan": 64,
+      "use": "sounds/StarTheme_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 16,
+      "keymap": 161,
+      "name": "Viola00",
+      "pan": 64,
+      "use": "sounds/Viola_A3.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 36,
+      "name": "ElecGrand00",
+      "pan": 64,
+      "use": "sounds/GMPiano_C2.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 16,
+      "keymap": 162,
+      "name": "Viola01",
+      "pan": 64,
+      "use": "sounds/Viola_F4.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 40,
+      "name": "ElecGrand01",
+      "pan": 64,
+      "use": "sounds/GMPiano_Bb2.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 16,
+      "keymap": 163,
+      "name": "Viola02",
+      "pan": 64,
+      "use": "sounds/Viola_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 41,
+      "name": "ElecGrand02",
+      "pan": 64,
+      "use": "sounds/GMPiano_F3.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 244,
+      "name": "SoundTrack00",
+      "pan": 64,
+      "use": "sounds/Soundtrack_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 42,
+      "name": "ElecGrand03",
+      "pan": 64,
+      "use": "sounds/GMPiano_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 47,
+      "name": "ElecGrand04",
+      "pan": 64,
+      "use": "sounds/GMPiano_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 48,
+      "name": "ElecGrand05",
+      "pan": 64,
+      "use": "sounds/GMPiano_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 114,
+      "name": "Accordian01",
+      "pan": 64,
+      "use": "sounds/Accordian_A5.23k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 53,
+      "name": "ElecGrand06",
+      "pan": 64,
+      "use": "sounds/GMPiano_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 113,
+      "name": "Accordian00",
+      "pan": 64,
+      "use": "sounds/Accordian_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 2,
+      "keymap": 55,
+      "name": "ElecGrand07",
+      "pan": 64,
+      "use": "sounds/GMPiano_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 57,
+      "name": "HonkyTonk00",
+      "pan": 64,
+      "use": "sounds/GMPiano_C2.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 11,
+      "keymap": 134,
+      "name": "CleanGtr02",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_Db6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 59,
+      "name": "HonkyTonk01",
+      "pan": 64,
+      "use": "sounds/GMPiano_Bb2.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 11,
+      "keymap": 133,
+      "name": "CleanGtr01",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_E5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 61,
+      "name": "HonkyTonk02",
+      "pan": 64,
+      "use": "sounds/GMPiano_F3.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 11,
+      "keymap": 132,
+      "name": "CleanGtr00",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 63,
+      "name": "HonkyTonk03",
+      "pan": 64,
+      "use": "sounds/GMPiano_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 64,
+      "name": "HonkyTonk04",
+      "pan": 64,
+      "use": "sounds/GMPiano_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 65,
+      "name": "HonkyTonk05",
+      "pan": 64,
+      "use": "sounds/GMPiano_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 67,
+      "name": "HonkyTonk06",
+      "pan": 64,
+      "use": "sounds/GMPiano_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 291,
+      "name": "Castanets",
+      "pan": 64,
+      "use": "sounds/Castanet.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 7,
+      "keymap": 69,
+      "name": "HonkyTonk07",
+      "pan": 64,
+      "use": "sounds/GMPiano_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 8,
+      "keymap": 49,
+      "name": "Harpsichord01",
+      "pan": 64,
+      "use": "sounds/Harpsichord_F4.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 0,
+      "keymap": 50,
+      "name": "ElecPiano200",
+      "pan": 64,
+      "use": "sounds/ElecPiano1_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 8,
+      "keymap": 43,
+      "name": "Harpsichord00",
+      "pan": 64,
+      "use": "sounds/Harpsichord_A3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 44,
+      "name": "AcBass00",
+      "pan": 64,
+      "use": "sounds/Ac_Bass_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 0,
+      "keymap": 45,
+      "name": "ElecPiano201",
+      "pan": 64,
+      "use": "sounds/ElecPiano1_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 15,
+      "keymap": 51,
+      "name": "SlowStrg04",
+      "pan": 64,
+      "use": "sounds/Strings_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 8,
+      "keymap": 52,
+      "name": "Harpsichord02",
+      "pan": 64,
+      "use": "sounds/Harpsichord_C5.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 8,
+      "keymap": 54,
+      "name": "Harpsichord03",
+      "pan": 64,
+      "use": "sounds/Harpsichord_Gb5.26k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 33,
+      "name": "EchoDrops00",
+      "pan": 64,
+      "use": "sounds/EchoDrops_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 15,
+      "keymap": 34,
+      "name": "SlowStrg02",
+      "pan": 64,
+      "use": "sounds/Strings_Gb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 35,
+      "name": "Synth2Bass00",
+      "pan": 64,
+      "use": "sounds/SynBass3_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 8,
+      "keymap": 37,
+      "name": "Harpsichord04",
+      "pan": 64,
+      "use": "sounds/Harpsichord_C6.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 70,
+      "name": "Celesta01",
+      "pan": 64,
+      "use": "sounds/Celeste_Bb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 71,
+      "name": "AltoSax00",
+      "pan": 64,
+      "use": "sounds/AltoSax_Bb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 72,
+      "name": "Clavinet00",
+      "pan": 64,
+      "use": "sounds/Harpsichord_A3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 73,
+      "name": "RideCym2",
+      "pan": 64,
+      "use": "sounds/Ride.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 74,
+      "name": "Celesta00",
+      "pan": 64,
+      "use": "sounds/Celeste_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 75,
+      "name": "Clavinet01",
+      "pan": 64,
+      "use": "sounds/Harpsichord_F4.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 76,
+      "name": "RideCym1",
+      "pan": 64,
+      "use": "sounds/Ride.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 77,
+      "name": "Celesta03",
+      "pan": 64,
+      "use": "sounds/Celeste_C6.29k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 78,
+      "name": "Clavinet02",
+      "pan": 64,
+      "use": "sounds/Harpsichord_C5.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 79,
+      "name": "Celesta02",
+      "pan": 64,
+      "use": "sounds/Celeste_F5.26k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 80,
+      "name": "Clavinet03",
+      "pan": 64,
+      "use": "sounds/Harpsichord_Gb5.26k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 81,
+      "name": "Breathnoise00",
+      "pan": 64,
+      "use": "sounds/Breath_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 82,
+      "name": "Clavinet04",
+      "pan": 64,
+      "use": "sounds/Harpsichord_C6.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 83,
+      "name": "Xylophone00",
+      "pan": 64,
+      "use": "sounds/Glock_C4.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 84,
+      "name": "TremeloStrg04",
+      "pan": 64,
+      "use": "sounds/Strings_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 85,
+      "name": "ChurchOrgan02",
+      "pan": 64,
+      "use": "sounds/PipeOrgan_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 86,
+      "name": "Glockenspiel00",
+      "pan": 64,
+      "use": "sounds/Glock_C4.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 87,
+      "name": "Ocarina00",
+      "pan": 64,
+      "use": "sounds/Ocarina_C5.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 88,
+      "name": "ChurchOrgan03",
+      "pan": 64,
+      "use": "sounds/PipeOrgan_A5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 89,
+      "name": "Glockenspiel01",
+      "pan": 64,
+      "use": "sounds/Glock_Bb4.23k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 90,
+      "name": "LowTimbale",
+      "pan": 64,
+      "use": "sounds/Timbale.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 91,
+      "name": "TenorSax00",
+      "pan": 64,
+      "use": "sounds/TenorSax_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 92,
+      "name": "ChurchOrgan00",
+      "pan": 64,
+      "use": "sounds/PipeOrgan_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 93,
+      "name": "Glockenspiel02",
+      "pan": 64,
+      "use": "sounds/Glock_F5.27k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 94,
+      "name": "Piccolo00",
+      "pan": 64,
+      "use": "sounds/Flute_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 95,
+      "name": "ChurchOrgan01",
+      "pan": 64,
+      "use": "sounds/PipeOrgan_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 96,
+      "name": "Glockenspiel03",
+      "pan": 64,
+      "use": "sounds/Glock_C6.33k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 97,
+      "name": "Marimba00",
+      "pan": 64,
+      "use": "sounds/Marimba_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 98,
+      "name": "Marimba01",
+      "pan": 64,
+      "use": "sounds/Marimba_Bb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 99,
+      "name": "Marimba02",
+      "pan": 64,
+      "use": "sounds/Marimba_F5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 100,
+      "name": "Crystal00",
+      "pan": 64,
+      "use": "sounds/Crystal_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 101,
+      "name": "Marimba03",
+      "pan": 64,
+      "use": "sounds/Marimba_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 102,
+      "name": "Xylophone01",
+      "pan": 64,
+      "use": "sounds/Glock_Bb4.23k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 103,
+      "name": "Xylophone02",
+      "pan": 64,
+      "use": "sounds/Glock_F5.27k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 104,
+      "name": "Xylophone03",
+      "pan": 64,
+      "use": "sounds/Glock_C6.33k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 105,
+      "name": "TubularBells00",
+      "pan": 64,
+      "use": "sounds/TubeBells_E4.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 106,
+      "name": "TubularBells01",
+      "pan": 64,
+      "use": "sounds/TubeBells_C5.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 107,
+      "name": "Calliope00",
+      "pan": 64,
+      "use": "sounds/Calliope_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 108,
+      "name": "TubularBells02",
+      "pan": 64,
+      "use": "sounds/TubeBells_G5.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 9,
+      "keymap": 109,
+      "name": "Dulcimer00",
+      "pan": 64,
+      "use": "sounds/Dulcimer_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 110,
+      "name": "DrawBarOrgan00",
+      "pan": 64,
+      "use": "sounds/DrawBarOrgan_C6.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 46,
+      "name": "PercOrgan00",
+      "pan": 64,
+      "use": "sounds/PercOrgan_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 111,
+      "name": "RockOrgan00",
+      "pan": 64,
+      "use": "sounds/RockOrgan_C6.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 112,
+      "name": "ReedOrgan00",
+      "pan": 64,
+      "use": "sounds/ReedOrgan_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 115,
+      "name": "GunShot00",
+      "pan": 64,
+      "use": "sounds/GunShot.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 116,
+      "name": "NewAgePad00",
+      "pan": 64,
+      "use": "sounds/NewAgePad_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 117,
+      "name": "Harmonica00",
+      "pan": 64,
+      "use": "sounds/Harmonica_F5.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 118,
+      "name": "Bandoneon00",
+      "pan": 64,
+      "use": "sounds/Bandoneon_F5.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 119,
+      "name": "NylonGtr00",
+      "pan": 64,
+      "use": "sounds/NylonStrGtr_B4.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 120,
+      "name": "NylonGtr01",
+      "pan": 64,
+      "use": "sounds/NylonStrGtr_Gb5.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 121,
+      "name": "NylonGtr02",
+      "pan": 64,
+      "use": "sounds/NylonStrGtr_Db6.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 122,
+      "name": "SteelGtr00",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 123,
+      "name": "SteelGtr01",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_E5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 124,
+      "name": "SteelGtr02",
+      "pan": 64,
+      "use": "sounds/StlStrGtr_Db6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 125,
+      "name": "LowConga",
+      "pan": 64,
+      "use": "sounds/CongaHi.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 12,
+      "keymap": 126,
+      "name": "MutedGtr00",
+      "pan": 64,
+      "use": "sounds/JazzGtr_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 10,
+      "keymap": 127,
+      "name": "JazzGtr00",
+      "pan": 64,
+      "use": "sounds/JazzGtr_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 12,
+      "keymap": 128,
+      "name": "MutedGtr01",
+      "pan": 64,
+      "use": "sounds/JazzGtr_E5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 10,
+      "keymap": 129,
+      "name": "JazzGtr01",
+      "pan": 64,
+      "use": "sounds/JazzGtr_E5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 12,
+      "keymap": 130,
+      "name": "MutedGtr02",
+      "pan": 64,
+      "use": "sounds/JazzGtr_Db6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 10,
+      "keymap": 131,
+      "name": "JazzGtr02",
+      "pan": 64,
+      "use": "sounds/JazzGtr_Db6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 135,
+      "name": "ElecSnare",
+      "pan": 64,
+      "use": "sounds/ElecSnare1.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 136,
+      "name": "Atmosphere00",
+      "pan": 64,
+      "use": "sounds/Atmosphere_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 137,
+      "name": "OvrDrvGtr00",
+      "pan": 64,
+      "use": "sounds/OverDrvGtr_A3.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 138,
+      "name": "OvrDrvGtr01",
+      "pan": 64,
+      "use": "sounds/OverDrvGtr_E4.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 139,
+      "name": "OvrDrvGtr02",
+      "pan": 64,
+      "use": "sounds/OverDrvGtr_C5.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 140,
+      "name": "OvrDrvGtr03",
+      "pan": 64,
+      "use": "sounds/OverDrvGtr_A5.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 141,
+      "name": "Sitar00",
+      "pan": 64,
+      "use": "sounds/Sitar2_G4.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 14,
+      "keymap": 142,
+      "name": "DistGtr00",
+      "pan": 64,
+      "use": "sounds/DistGtr_A3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 143,
+      "name": "Tuba00",
+      "pan": 64,
+      "use": "sounds/Tuba_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 14,
+      "keymap": 144,
+      "name": "DistGtr01",
+      "pan": 64,
+      "use": "sounds/DistGtr_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 14,
+      "keymap": 145,
+      "name": "DistGtr02",
+      "pan": 64,
+      "use": "sounds/DistGtr_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 14,
+      "keymap": 146,
+      "name": "DistGtr03",
+      "pan": 64,
+      "use": "sounds/DistGtr_A5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 14,
+      "keymap": 147,
+      "name": "DistGtr04",
+      "pan": 64,
+      "use": "sounds/DistGtr_F6.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 148,
+      "name": "GtrHarmonic00",
+      "pan": 64,
+      "use": "sounds/GtrHarmonic_C5.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 149,
+      "name": "FngBass00",
+      "pan": 64,
+      "use": "sounds/FingerBass_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 150,
+      "name": "HighTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 151,
+      "name": "PickBass00",
+      "pan": 64,
+      "use": "sounds/PickBass_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 152,
+      "name": "LoWoodBlock",
+      "pan": 64,
+      "use": "sounds/Block.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 153,
+      "name": "FretlessBass00",
+      "pan": 64,
+      "use": "sounds/Fretless_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 154,
+      "name": "Slap1Bass00",
+      "pan": 64,
+      "use": "sounds/SlapBass1_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 28,
+      "name": "Slap2Bass00",
+      "pan": 64,
+      "use": "sounds/SlapBass2_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 155,
+      "name": "Synth1Bass00",
+      "pan": 64,
+      "use": "sounds/SynBass1_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 15,
+      "keymap": 156,
+      "name": "SlowStrg00",
+      "pan": 64,
+      "use": "sounds/Strings_Ab3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 16,
+      "keymap": 157,
+      "name": "Violin00",
+      "pan": 64,
+      "use": "sounds/Violin_C5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 15,
+      "keymap": 158,
+      "name": "SlowStrg01",
+      "pan": 64,
+      "use": "sounds/Strings_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 16,
+      "keymap": 159,
+      "name": "Violin01",
+      "pan": 64,
+      "use": "sounds/Violin_C6.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 164,
+      "name": "Cello00",
+      "pan": 64,
+      "use": "sounds/Cello_Bb1.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 165,
+      "name": "Cello01",
+      "pan": 64,
+      "use": "sounds/Cello_F2.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 166,
+      "name": "Cello02",
+      "pan": 64,
+      "use": "sounds/Cello_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 167,
+      "name": "Cello03",
+      "pan": 64,
+      "use": "sounds/Cello_A3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 168,
+      "name": "ChoirAhhs01",
+      "pan": 64,
+      "use": "sounds/ChoirAhhs_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 169,
+      "name": "Contrabass00",
+      "pan": 64,
+      "use": "sounds/Cello_Bb1.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 170,
+      "name": "ChoirAhhs00",
+      "pan": 64,
+      "use": "sounds/ChoirAhhs_F3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 171,
+      "name": "Contrabass01",
+      "pan": 64,
+      "use": "sounds/Cello_F2.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 172,
+      "name": "ChoirAhhs03",
+      "pan": 64,
+      "use": "sounds/ChoirAhhs_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 173,
+      "name": "Contrabass02",
+      "pan": 64,
+      "use": "sounds/Cello_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 174,
+      "name": "ChoirAhhs02",
+      "pan": 64,
+      "use": "sounds/ChoirAhhs_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 175,
+      "name": "Contrabass03",
+      "pan": 64,
+      "use": "sounds/Cello_A3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 176,
+      "name": "TremeloStrg00",
+      "pan": 64,
+      "use": "sounds/Strings_Ab3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 177,
+      "name": "KickDrum1",
+      "pan": 64,
+      "use": "sounds/Kick1.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 178,
+      "name": "TremeloStrg01",
+      "pan": 64,
+      "use": "sounds/Strings_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 179,
+      "name": "KickDrum2",
+      "pan": 64,
+      "use": "sounds/Kick2.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 180,
+      "name": "TremeloStrg02",
+      "pan": 64,
+      "use": "sounds/Strings_Gb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 181,
+      "name": "Shakuhachi00",
+      "pan": 64,
+      "use": "sounds/Shakuhachi_C5.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 182,
+      "name": "TremeloStrg03",
+      "pan": 64,
+      "use": "sounds/Strings_D5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 183,
+      "name": "Harp00",
+      "pan": 64,
+      "use": "sounds/Harp_E5.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 184,
+      "name": "Timpani00",
+      "pan": 64,
+      "use": "sounds/Timpani_C3.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 185,
+      "name": "ChoirOohs01",
+      "pan": 64,
+      "use": "sounds/ChoirOohs_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 186,
+      "name": "StrgEnsmbl00",
+      "pan": 64,
+      "use": "sounds/Strings_Ab3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 187,
+      "name": "ChoirOohs00",
+      "pan": 64,
+      "use": "sounds/ChoirOohs_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 188,
+      "name": "StrgEnsmbl01",
+      "pan": 64,
+      "use": "sounds/Strings_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 6,
+      "name": "ChoirOohs03",
+      "pan": 64,
+      "use": "sounds/ChoirOohs_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 7,
+      "name": "StrgEnsmbl02",
+      "pan": 64,
+      "use": "sounds/Strings_Gb4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 3,
+      "name": "ChoirOohs02",
+      "pan": 64,
+      "use": "sounds/ChoirOohs_G4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 4,
+      "name": "StrgEnsmbl03",
+      "pan": 64,
+      "use": "sounds/Strings_D5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 189,
+      "name": "StrgEnsmbl04",
+      "pan": 64,
+      "use": "sounds/Strings_C6.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 38,
+      "name": "Cowbell",
+      "pan": 64,
+      "use": "sounds/Cowbell.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 15,
+      "keymap": 39,
+      "name": "SlowStrg03",
+      "pan": 64,
+      "use": "sounds/Strings_D5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 190,
+      "name": "Synth1Strg00",
+      "pan": 64,
+      "use": "sounds/SynthStr3_C5.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 68,
+      "name": "Synth2Strg00",
+      "pan": 64,
+      "use": "sounds/SynthStr4_C5.31k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 191,
+      "name": "BellTree",
+      "pan": 64,
+      "use": "sounds/BellTree.44k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 192,
+      "name": "ChoirAhhs04",
+      "pan": 64,
+      "use": "sounds/ChoirAhhs_F5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 9,
+      "name": "MuteCuica",
+      "pan": 64,
+      "use": "sounds/Cuica.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 10,
+      "name": "ChoirOohs04",
+      "pan": 64,
+      "use": "sounds/ChoirOohs_G5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 193,
+      "name": "SteelDrums00",
+      "pan": 64,
+      "use": "sounds/StDrum_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 194,
+      "name": "SynthVoice00",
+      "pan": 64,
+      "use": "sounds/SynthVoice_F4.13k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 195,
+      "name": "OrchHit00",
+      "pan": 64,
+      "use": "sounds/OrchHit_C4.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 196,
+      "name": "Trumpet00",
+      "pan": 64,
+      "use": "sounds/Trumpet_A4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 197,
+      "name": "Trumpet01",
+      "pan": 64,
+      "use": "sounds/Trumpet_Db5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 198,
+      "name": "MuteTriangle",
+      "pan": 64,
+      "use": "sounds/Triangle.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 199,
+      "name": "Trumpet02",
+      "pan": 64,
+      "use": "sounds/Trumpet_F5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 200,
+      "name": "Trumpet03",
+      "pan": 64,
+      "use": "sounds/Trumpet_A5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 201,
+      "name": "OpenTriangle",
+      "pan": 64,
+      "use": "sounds/Triangle.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 202,
+      "name": "Trombone00",
+      "pan": 64,
+      "use": "sounds/Trombone_F3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 203,
+      "name": "HandClap",
+      "pan": 64,
+      "use": "sounds/HandClaps.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 204,
+      "name": "Trombone01",
+      "pan": 64,
+      "use": "sounds/Trombone_C4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 209,
+      "name": "FrHorn00",
+      "pan": 64,
+      "use": "sounds/FrHorn_F4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 210,
+      "name": "Synth1Brass00",
+      "pan": 64,
+      "use": "sounds/SynBrass4_C5.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 211,
+      "name": "BrassSection00",
+      "pan": 64,
+      "use": "sounds/BrassSect_E4.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 212,
+      "name": "Brightness00",
+      "pan": 64,
+      "use": "sounds/Brightness6_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 213,
+      "name": "BrassSection01",
+      "pan": 64,
+      "use": "sounds/BrassSect_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 214,
+      "name": "Synth2Brass00",
+      "pan": 64,
+      "use": "sounds/SynBrass2_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 215,
+      "name": "SopSax00",
+      "pan": 64,
+      "use": "sounds/SopSax_F5.23k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 216,
+      "name": "BariSax00",
+      "pan": 64,
+      "use": "sounds/BariSax_C3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 217,
+      "name": "Oboe00",
+      "pan": 64,
+      "use": "sounds/Oboe_C5.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 218,
+      "name": "EngHorn00",
+      "pan": 64,
+      "use": "sounds/EngHorn_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 219,
+      "name": "Bassoon00",
+      "pan": 64,
+      "use": "sounds/Bassoon_G3.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 220,
+      "name": "Clarinet00",
+      "pan": 64,
+      "use": "sounds/Clarinet_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 221,
+      "name": "Flute00",
+      "pan": 64,
+      "use": "sounds/Flute_C6.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 222,
+      "name": "Maracas",
+      "pan": 64,
+      "use": "sounds/Maracas.27k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 223,
+      "name": "Recorder00",
+      "pan": 64,
+      "use": "sounds/Recorder_G5.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 224,
+      "name": "Panflute00",
+      "pan": 64,
+      "use": "sounds/PanFlute2_C5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 225,
+      "name": "BottleBlow00",
+      "pan": 64,
+      "use": "sounds/BottleBlow2_C5.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 226,
+      "name": "Whistle00",
+      "pan": 64,
+      "use": "sounds/Whistle2_F5.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 227,
+      "name": "SqrWave00",
+      "pan": 64,
+      "use": "sounds/SqrWave_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 228,
+      "name": "SawWave00",
+      "pan": 64,
+      "use": "sounds/SawWave2_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 229,
+      "name": "ChiffLead00",
+      "pan": 64,
+      "use": "sounds/ChiffLead_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 230,
+      "name": "Charang00",
+      "pan": 64,
+      "use": "sounds/Charang_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 231,
+      "name": "Kalimba00",
+      "pan": 64,
+      "use": "sounds/Kalimba_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 232,
+      "name": "SoloVoice00",
+      "pan": 64,
+      "use": "sounds/SoloVoice_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 233,
+      "name": "SawFifths00",
+      "pan": 64,
+      "use": "sounds/SawFifths_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 234,
+      "name": "BassLead00",
+      "pan": 64,
+      "use": "sounds/BassLead_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 235,
+      "name": "WarmPad00",
+      "pan": 64,
+      "use": "sounds/WarmPad_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 236,
+      "name": "SynthDrum00",
+      "pan": 64,
+      "use": "sounds/SynthDrum.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 237,
+      "name": "SpaceVoice00",
+      "pan": 64,
+      "use": "sounds/SpaceVoice_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 238,
+      "name": "BowedGlass00",
+      "pan": 64,
+      "use": "sounds/BowedGlass_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 239,
+      "name": "JingleBell",
+      "pan": 64,
+      "use": "sounds/JingleBells.44k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 240,
+      "name": "MetalicPad00",
+      "pan": 64,
+      "use": "sounds/MetalicPad_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 241,
+      "name": "HaloPad00",
+      "pan": 64,
+      "use": "sounds/HaloPad_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 242,
+      "name": "SweepPad00",
+      "pan": 64,
+      "use": "sounds/SweepPad_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 243,
+      "name": "IceRain00",
+      "pan": 64,
+      "use": "sounds/IceRain_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 245,
+      "name": "Goblins00",
+      "pan": 64,
+      "use": "sounds/Goblins_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 246,
+      "name": "Banjo00",
+      "pan": 64,
+      "use": "sounds/Banjo_G4.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 247,
+      "name": "TinkleBell00",
+      "pan": 64,
+      "use": "sounds/Triangle.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 248,
+      "name": "Shamisen00",
+      "pan": 64,
+      "use": "sounds/Shamison_C5.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 249,
+      "name": "Koto00",
+      "pan": 64,
+      "use": "sounds/Koto_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 13,
+      "keymap": 250,
+      "name": "CrashCym1",
+      "pan": 64,
+      "use": "sounds/Crash.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 251,
+      "name": "Bagpipes00",
+      "pan": 64,
+      "use": "sounds/Bagpipes_F4.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 252,
+      "name": "Fiddle00",
+      "pan": 64,
+      "use": "sounds/Violin_C5.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 253,
+      "name": "Shanai00",
+      "pan": 64,
+      "use": "sounds/Shanai_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 254,
+      "name": "Agogo00",
+      "pan": 64,
+      "use": "sounds/Agogo.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 255,
+      "name": "SteelDrums01",
+      "pan": 64,
+      "use": "sounds/StDrum_C5.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 256,
+      "name": "Woodblock00",
+      "pan": 64,
+      "use": "sounds/Block.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 257,
+      "name": "TaikoDrum00",
+      "pan": 64,
+      "use": "sounds/Taiko.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 258,
+      "name": "MelodicTom00",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 259,
+      "name": "ReverseCym00",
+      "pan": 64,
+      "use": "sounds/RevCymbal.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 260,
+      "name": "GtrFretNoise00",
+      "pan": 64,
+      "use": "sounds/FretNoise.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 13,
+      "name": "Seashore00",
+      "pan": 64,
+      "use": "sounds/SeaShore.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 261,
+      "name": "Birdtweet00",
+      "pan": 64,
+      "use": "sounds/Birdtweet.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 262,
+      "name": "Telephone00",
+      "pan": 64,
+      "use": "sounds/Telephone3.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 4,
+      "keymap": 263,
+      "name": "Helicopter00",
+      "pan": 64,
+      "use": "sounds/Helicopter.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 264,
+      "name": "SideStick",
+      "pan": 64,
+      "use": "sounds/SideStick.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 265,
+      "name": "AcSnare",
+      "pan": 64,
+      "use": "sounds/AcSnare.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 266,
+      "name": "LowFloorTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 267,
+      "name": "ClosedHHat",
+      "pan": 64,
+      "use": "sounds/ClosedHat_2.22k.aifc",
+      "volume": 80
+    },
+    {
+      "envelope": 1,
+      "keymap": 268,
+      "name": "HighFloorTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 17,
+      "keymap": 269,
+      "name": "PedalHHat",
+      "pan": 64,
+      "use": "sounds/ClosedHat_2.22k.aifc",
+      "volume": 86
+    },
+    {
+      "envelope": 1,
+      "keymap": 270,
+      "name": "LowTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 271,
+      "name": "OpenHHat",
+      "pan": 64,
+      "use": "sounds/OpenHat.22k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 272,
+      "name": "LowMidTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 273,
+      "name": "HiMidTom",
+      "pan": 64,
+      "use": "sounds/FloorTom.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 274,
+      "name": "ChinaCym",
+      "pan": 64,
+      "use": "sounds/ChinaCymbal.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 275,
+      "name": "Tamborine",
+      "pan": 64,
+      "use": "sounds/Tamborine.24k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 276,
+      "name": "SplashCym",
+      "pan": 64,
+      "use": "sounds/Crash.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 277,
+      "name": "CrashCym2",
+      "pan": 64,
+      "use": "sounds/Crash.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 278,
+      "name": "Vibraslap",
+      "pan": 64,
+      "use": "sounds/Castanet.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 279,
+      "name": "HighBongo",
+      "pan": 64,
+      "use": "sounds/Bongo.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 280,
+      "name": "LowBongo",
+      "pan": 64,
+      "use": "sounds/Bongo.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 56,
+      "name": "MuteConga",
+      "pan": 64,
+      "use": "sounds/MuteConga.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 0,
+      "name": "HighConga",
+      "pan": 64,
+      "use": "sounds/CongaHi.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 19,
+      "name": "HighTimbale",
+      "pan": 64,
+      "use": "sounds/Timbale.18k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 281,
+      "name": "HighAgogo",
+      "pan": 64,
+      "use": "sounds/Agogo.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 282,
+      "name": "LowAgogo",
+      "pan": 64,
+      "use": "sounds/Agogo.20k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 283,
+      "name": "ShortWhistle",
+      "pan": 64,
+      "use": "sounds/Whistle.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 284,
+      "name": "LongWhistle",
+      "pan": 64,
+      "use": "sounds/Whistle.19k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 285,
+      "name": "ShortGuiro",
+      "pan": 64,
+      "use": "sounds/Guiro.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 286,
+      "name": "LongGuiro",
+      "pan": 64,
+      "use": "sounds/Guiro.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 287,
+      "name": "Claves",
+      "pan": 64,
+      "use": "sounds/Claves.15k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 288,
+      "name": "HiWoodBlock",
+      "pan": 64,
+      "use": "sounds/Block.17k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 289,
+      "name": "OpenCuica",
+      "pan": 64,
+      "use": "sounds/Cuica.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 290,
+      "name": "Shaker",
+      "pan": 64,
+      "use": "sounds/Maracas.27k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 292,
+      "name": "MuteSurdo",
+      "pan": 64,
+      "use": "sounds/Surdo.16k.aifc",
+      "volume": 127
+    },
+    {
+      "envelope": 1,
+      "keymap": 293,
+      "name": "OpenSurdo",
+      "pan": 64,
+      "use": "sounds/Surdo.16k.aifc",
+      "volume": 127
+    }
+  ]
+}
