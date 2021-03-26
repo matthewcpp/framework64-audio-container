@@ -24,5 +24,7 @@ RUN apt-get update && apt-get upgrade -y && \
 	mkdir /src /dest /job /fw64
 
 COPY --from=cpp_builder /tools/build/json2ins/json2ins /tools/build/snd2aiff/snd2aiff /fw64/
-COPY fw64 /fw64
+COPY . /
+
+ENTRYPOINT ["/fw64/entrypoint.sh"]
 
