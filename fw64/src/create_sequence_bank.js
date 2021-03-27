@@ -13,16 +13,21 @@ const destDir = "dest";
 const jobDir = "job";
 
 async function main() {
+    const outputPrefix = (process.argv.length >= 3) ? process.argv[2] : "music";
+
     const srcFiles = fs.readdirSync(srcDir);
 
-    const sbkFile = path.join(destDir, "midi.sbk")
+    const sbkFile = path.join(destDir, `${outputPrefix}.sbk`)
     const sbcCommandArgs = [sgiTools.sbc, `-O${sbkFile}`];
 
     const wineScriptPath = path.join(jobDir, "winescript.sh");
     const wineScript = fs.openSync(wineScriptPath, "w");
 
-    const filteredInsFile = path.join(fw64.generalMidiDir, "gm.ins");
+    const filteredInsBasename = `${outputPrefix}.ins`;
+    const filteredInsFile = path.join(fw64.generalMidiDir, filteredInsBasename);
     const json2insCommandArgs = [fw64.generalMidiJsonFile, filteredInsFile];
+
+    const sequenceList = [];
 
     for (const file of srcFiles) {
         if (path.extname(file) !== ".mid")
@@ -41,6 +46,7 @@ async function main() {
 
         sbcCommandArgs.push(compressedMidiFile);
         json2insCommandArgs.push(midi0File);
+        sequenceList.push(basename);
     }
 
     fs.closeSync(wineScript);
@@ -56,11 +62,17 @@ async function main() {
     await execFile(fw64.json2ins, json2insCommandArgs);
 
     // create the ctl and tbl files for the filtered instrument, then copy to output dir
-    const icCommand = [sgiTools.ic, "-Ogm", "gm.ins"];
+    const icCommand = [sgiTools.ic, `-O${outputPrefix}`, filteredInsBasename];
     console.log("wine", icCommand);
     await execFile("wine", icCommand, {cwd: fw64.generalMidiDir});
-    fs.copyFileSync(path.join(fw64.generalMidiDir, "gm.ctl"), path.join(destDir, "gm.ctl"));
-    fs.copyFileSync(path.join(fw64.generalMidiDir, "gm.tbl"), path.join(destDir, "gm.tbl"));
+
+    const ctlBasename = outputPrefix + ".ctl";
+    const tblBasename = outputPrefix + ".tbl";
+    fs.copyFileSync(path.join(fw64.generalMidiDir, ctlBasename), path.join(destDir, ctlBasename));
+    fs.copyFileSync(path.join(fw64.generalMidiDir, tblBasename), path.join(destDir, tblBasename));
+
+    const sequenceListFile = path.join(destDir, outputPrefix + ".json");
+    fs.writeFileSync(sequenceListFile, JSON.stringify(sequenceList, null, 2));
 }
 
 if (require.main === module) {

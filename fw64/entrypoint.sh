@@ -9,11 +9,11 @@ fi
 case $1 in
 
     create_sequence_bank)
-        node "fw64/src/create_sequence_bank.js"
+        node "fw64/src/create_sequence_bank.js" $2
         ;;
 
     create_sound_bank)
-        node "fw64/src/create_sound_bank.js"
+        node "fw64/src/create_sound_bank.js" $2
         ;;
 
     *)
