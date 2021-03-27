@@ -71,8 +71,8 @@ async function main() {
     fs.copyFileSync(path.join(fw64.generalMidiDir, ctlBasename), path.join(destDir, ctlBasename));
     fs.copyFileSync(path.join(fw64.generalMidiDir, tblBasename), path.join(destDir, tblBasename));
 
-    const sequenceListFile = path.join(destDir, outputPrefix + ".json");
-    fs.writeFileSync(sequenceListFile, JSON.stringify(sequenceList, null, 2));
+    const sequenceListPath = path.join(destDir, outputPrefix + ".json");
+    fs.writeFileSync(sequenceListPath, JSON.stringify(sequenceList, null, 2));
 }
 
 if (require.main === module) {

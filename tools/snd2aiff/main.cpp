@@ -69,6 +69,7 @@ int main(int argc, char** argv) {
         convert_to_aiff(source_file, dest_file);
     }
     else {
+        std::cout << "Resampling stereo to mono" << std::endl;
         convert_stereo_to_mono_aiff(source_file, dest_file);
     }
 
