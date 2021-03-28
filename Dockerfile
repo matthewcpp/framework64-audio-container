@@ -21,6 +21,7 @@ RUN apt-get update && apt-get upgrade -y && \
 	apt update && apt install --install-recommends -y winehq-stable && \
 	curl -fsSL https://deb.nodesource.com/setup_15.x | bash - && \
 	apt-get install -y nodejs && \
+	wineconsole && \
 	mkdir /src /dest /job /fw64
 
 COPY --from=cpp_builder /tools/build/json2ins/json2ins /tools/build/snd2aiff/snd2aiff /fw64/
