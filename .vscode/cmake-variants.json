@@ -1,0 +1,33 @@
+{
+    "buildType": {
+        "default": "debug",
+        "choices": {
+            "debug": {
+                "short": "Debug",
+                "buildType": "Debug",
+                "settings": {
+                    "CMAKE_BUILD_TYPE": "Debug"
+                }
+            },
+            "release": {
+                "short": "Release",
+                "buildType": "Release",
+                "settings": {
+                    "CMAKE_BUILD_TYPE": "Release"
+                }
+            }
+        }
+    },
+    "platform": {
+        "default": "Desktop",
+        "choices": {
+            "desktop": {
+                "short": "Desktop",
+                "long": "Desktop",
+                "settings": {
+                    "CMAKE_TOOLCHAIN_FILE": "${env:VCPKG_DIR}/scripts/buildsystems/vcpkg.cmake"
+                }
+            }
+        }
+    }
+}

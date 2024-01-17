@@ -1,0 +1,11 @@
+{
+    "name": "fw64-n64-libultra",
+    "version": "0.1.0",
+    "dependencies": [
+        {
+            "name": "libsndfile",
+            "features": ["external-libs", "mpeg"]
+        },
+        "nlohmann-json"
+    ]
+}
